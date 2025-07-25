@@ -1,9 +1,10 @@
 ### Hello! My name is Mend-Amar.
-I am a recent graduate from NUM. I'm open to work. 👋👋👋👋
+I am a recent graduate from National University of Mongolia (NUM). I'm open to work. 👋👋👋👋
 
 My main interests are:
 - Computer Vision: Multiple View Geometry etc, 3D scene construction
 - Deep Learning in CV
+- Python - Geospatial libraries (`rasterio`, `geopandas`, `xarrays`), `PyTorch`
 - Julia programming language - A fresh approach to numeric computing
 
 What I've done so far:
