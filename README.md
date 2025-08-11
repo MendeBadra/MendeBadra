@@ -10,6 +10,7 @@ My main interests are:
 What I've done so far:
 - Check out my blog site at [here](https://mendebadra.github.io)
 - Weed segmentation using k-means and spatial clustering measure (autocorrelation) from drone imagery for my bachelor's thesis. I have relevant experience in processing DJI Phantom P4 drone imagery for vegetation index etc.
-- `Pluto.jl` notebook from a tutorial example from Deep Learning Bishop's book.
+- `Pluto.jl` notebook from a tutorial example from Deep Learning Bishop's book. (now posted as html in my blog site)
 - Linux, nvim, bash scripting configs
+
 
