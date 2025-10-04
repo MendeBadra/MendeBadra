@@ -1,5 +1,5 @@
 ### Hello! My name is Mend-Amar.
-I am a masters student in [Budapest University of Technology and Economics](https://www.bme.hu/en). 👋👋👋👋
+I am a masters student in [Budapest University of Technology and Economics](https://www.bme.hu/en) from Mongolia. 👋👋👋👋
 
 My main interests are:
 - Computer Vision
@@ -12,6 +12,7 @@ What I've done so far:
 - Weed segmentation using k-means and spatial clustering measure (autocorrelation) from drone imagery for my bachelor's thesis. I have relevant experience in processing DJI Phantom P4 drone imagery for vegetation index etc.
 - `Pluto.jl` notebook from a tutorial example from Deep Learning Bishop's book. (now posted as html in my blog site)
 - Linux, nvim, bash scripting configs
+
 
 
 
